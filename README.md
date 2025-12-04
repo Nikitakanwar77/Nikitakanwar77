@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer From India</h3>
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg"  width="250px" height="250px"/> </p>
-
+<br>
 <p align="center">
 <a> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -24,8 +24,8 @@
 <a> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>  
 </p>
 <br>
-<br>
 <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=Nikitakanwar77&theme=dark&h" width="400px" height="400px"/></>
+
 
 
 
